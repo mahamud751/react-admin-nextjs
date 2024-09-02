@@ -12,6 +12,7 @@
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.5",
+    "axios": "^1.7.5",
     "next": "14.2.5",
     "ra-data-json-server": "^5.1.0",
     "ra-data-simple-rest": "^5.1.0",

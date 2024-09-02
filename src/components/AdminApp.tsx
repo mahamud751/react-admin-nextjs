@@ -8,7 +8,7 @@ import { ProductCreate, ProductEdit, ProductList } from "./Products/Product";
 const AdminApp = () => (
   <Admin dataProvider={dataProvider}>
     <Resource
-      name="promo"
+      name="banners"
       list={PostList}
       edit={PostEdit}
       create={PostCreate}
